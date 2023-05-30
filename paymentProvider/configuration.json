@@ -1,8 +1,13 @@
 {
-  "name": "TestSuitApprover",
+  "name": "credit-key",
+  "serviceUrl": "/_v/api/credit-key",
   "paymentMethods": [
     {
       "name": "Visa",
+      "allowsSplit": "onCapture"
+    },
+    {
+      "name": "CreditKey",
       "allowsSplit": "onCapture"
     },
     {

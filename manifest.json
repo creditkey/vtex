@@ -1,8 +1,8 @@
 {
-  "name": "payment-provider-example",
-  "vendor": "vtex",
-  "version": "1.2.0",
-  "title": "Payment Provider Example",
+  "name": "credit-key",
+  "vendor": "creditkeypartnerus",
+  "version": "0.1.0",
+  "title": "TestCreditKeyConnector",
   "description": "Reference app for Payment-Provider protocol implementers",
   "builders": {
     "paymentProvider": "1.x",
