@@ -3,31 +3,7 @@
   "serviceUrl": "/_v/api/credit-key",
   "paymentMethods": [
     {
-      "name": "Visa",
-      "allowsSplit": "onCapture"
-    },
-    {
       "name": "CreditKey",
-      "allowsSplit": "onCapture"
-    },
-    {
-      "name": "American Express",
-      "allowsSplit": "onCapture"
-    },
-    {
-      "name": "Diners",
-      "allowsSplit": "onCapture"
-    },
-    {
-      "name": "Elo",
-      "allowsSplit": "onCapture"
-    },
-    {
-      "name": "Hipercard",
-      "allowsSplit": "onCapture"
-    },
-    {
-      "name": "Mastercard",
       "allowsSplit": "onCapture"
     },
     {
