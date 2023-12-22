@@ -3,12 +3,8 @@
   "serviceUrl": "/_v/api/credit-key",
   "paymentMethods": [
     {
-      "name": "CreditKey",
+      "name": "CreditCards",
       "allowsSplit": "onCapture"
-    },
-    {
-      "name": "BankInvoice",
-      "allowsSplit": "onAuthorize"
     }
   ]
 }
