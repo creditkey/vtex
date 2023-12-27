@@ -3,7 +3,7 @@
   "serviceUrl": "/_v/api/credit-key",
   "paymentMethods": [
     {
-      "name": "CreditCards",
+      "name": "Promissory",
       "allowsSplit": "onCapture"
     }
   ]
