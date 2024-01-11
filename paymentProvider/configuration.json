@@ -4,7 +4,11 @@
   "paymentMethods": [
     {
       "name": "Promissory",
-      "allowsSplit": "onCapture"
+      "allowsSplit": "disabled"
+    },
+    {
+      "name": "credit-key",
+      "allowsSplit": "disabled"
     }
   ]
 }
